@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a 3rd-year B.Tech Computer Science student with a passion for **scalable web development** and **data structures**.  
+I’m a B.Tech Computer Science student with a passion for **scalable web development** and **data structures**.  
 Currently focused on building real-world **MERN stack apps** and solving challenges on **LeetCode**.
 
 - 🔭 I’m building: Web apps with React, Firebase, Node.js  
@@ -54,8 +54,8 @@ React + Google Maps for Delhi route navigation.
 🎓 **[Student ERP System](https://github.com/aditya1-debug)**  
 MERN-based portal for student/admin role management.
 
-🌦️ **[Weather App](https://github.com/aditya1-debug)**  
-Real-time forecast using Weather API.
+🎓 **[Autogram](https://github.com/aditya1-debug)**  
+MERN-based portal for student/admin role management.
  
 
 ---
